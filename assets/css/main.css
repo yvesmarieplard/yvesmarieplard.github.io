@@ -3149,7 +3149,7 @@
 	}
 
 	#header {
-		background: #1c1c1c;
+		background: #323478;
 		color: #d5d5d5;
 		cursor: default;
 		height: 5em;
@@ -3797,10 +3797,9 @@
 /* Footer */
 
 	#footer {
-		background-color: darkgrey;
-		color: #f2a3a5;
+		background-color: #323478;
+		color: #323478;
 		padding: 4em 0 2em 0;
-		background: darkgrey;
 	}
 
 		#footer input, #footer select, #footer textarea {

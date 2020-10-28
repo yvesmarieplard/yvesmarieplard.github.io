@@ -1,2 +1,5 @@
 # yvesmarieplard.github.io
- personal portfolio
+  A Personal portfolio, a place to gather :
+  - Works
+  - Resume
+  - Personal projects
