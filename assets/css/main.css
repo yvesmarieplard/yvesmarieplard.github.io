@@ -2342,10 +2342,11 @@
 
 		.image.work {
 			max-width: 40%;
-
+			height:auto}
 		}
 		.image.work img {
 			max-width: 100%;
+			vertical-align:middle;
 		}
 
 		.image.left, .image.right {
@@ -3159,6 +3160,7 @@
 		top: 0;
 		width: 100%;
 		z-index: 10001;
+		border-bottom: 1px solid white;
 	}
 
 		#header .inner {
@@ -3799,6 +3801,7 @@
 		background-color: #323478;
 		color: #323478;
 		padding: 4em 0 2em 0;
+
 	}
 
 		#footer input, #footer select, #footer textarea {
