@@ -2418,7 +2418,7 @@
 		.ul-nebula li {
 				display: inline-block;
 				padding-right: 1em;
-				color:#323478;
+				color:#000a24;
 		 }
 
 		 .li-nebula1 {
@@ -3150,7 +3150,7 @@
 	}
 
 	#header {
-		background: #323478;
+		background: #000a24;
 		color: #d5d5d5;
 		cursor: default;
 		height: 5em;
@@ -3330,7 +3330,7 @@
 		position: fixed;
 		right: 0;
 		top: 0;
-		background: #323478;
+		background: #000a24;
 		color: #fff;
 		height: 100%;
 		max-width: 80%;
@@ -3799,8 +3799,8 @@
 /* Footer */
 
 	#footer {
-		background-color: #323478;
-		color: #323478;
+		background-color: #000a24;
+		color: #000a24;
 		padding: 4em 0 2em 0;
 
 	}
