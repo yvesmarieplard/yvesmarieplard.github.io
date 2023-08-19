@@ -5,7 +5,7 @@ collections_dir: my_collections
 
 collections:
   - experiences
-  - misc
+  - posts
 
 # Name of your site (displayed in the header)
 name: Yves Marie Plard
