@@ -2,8 +2,11 @@
 layout: page
 permalink: /resume/
 title: Yves-Marie Plard
-last_updated: August 19, 2023
 ---
+<div>
+  <p class="post_date">last update: August 19, 2023</p>
+</div>
+
 <style>
   .custom-button {
     display: inline-block;
