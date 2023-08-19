@@ -10,5 +10,4 @@ I am currently working at 4D as a project manager, overseeing teams of developer
 
 I have a strong interest in digitalization and in the power industry. 
 
-Please don't hesitate to check my [resume](https://www.yvesmarieplard.fr/resume) and some of my [works](https://www.yvesmarieplard.fr/works).
-
+Please don't hesitate to check my [resume](https://www.yvesmarieplard.fr/resume) and some of my [works](https://www.yvesmarieplard.fr/works)! 
