@@ -8,4 +8,4 @@ location:
 category: LANGUAGES & SKILLS
 website: ""
 ---
-- **French**: Native | **English**: Fluent | **Chinese**: Intermediate
+**French**: Native | **English**: Fluent | **Chinese**: Intermediate
