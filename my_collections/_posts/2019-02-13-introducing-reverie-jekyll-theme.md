@@ -1,7 +1,105 @@
 ---
 layout: post
-title: Introducing Reverie - A ridiculously elegant Jekyll theme
-categories: [Miscellaneous, Jekyll]
+title: EEDP 1st Rotation
+categories: [Power, EEDP]
 ---
 
-magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia 
+Sure, here is the rearranged and improved version of the provided content for a Markdown (.md) file:
+
+```markdown
+# Energy Industry Experience
+
+## 1st Rotation – GE Gas Power Systems, New Products Introduction Team
+
+![6F01 Gas Turbine](images/6f01.jpg)
+
+**Where I Was:** I started in the *New Products Instrumentation team*, responsible for introducing and developing new accessories for gas turbines.
+
+**What I Did:** I worked on a medium-sized gas turbine (6F.01, 120MW power station) where I developed a fluid model of the gas injection system for a project in Israel. This 1D model of the auxiliary systems, created using fluid mechanics software, aimed to assist site commissioning by evaluating turbine performance and ensuring regulatory compliance, particularly regarding emissions requirements. The model proved useful for calculating transitory state emissions for the turbine.
+
+**What I Learned:** I developed technical skills in fluid mechanics, coding, and project management.
+
+Technical Skills Acquired:
+- Gas Turbines
+- Fluid Mechanics
+- Performance Evaluation
+- Project Management
+- New Product Introduction (NPI)
+
+## 2nd Rotation – GE Gas Power Systems, Testing Team
+
+![HA Turbine from General Electric Power](images/ha-turbine.jpg)
+
+**Where I Was:** In the second rotation, I joined the *testing data system team* (part of Belfort Technology Laboratory) involved in the preparation and handling of the 9HA.01 and 9HA.02 gas turbines, which were the most efficient gas turbines globally at the time.
+
+**What I Did:** As part of the data system team, I contributed to projects related to gathering turbine performance data, including:
+- Developing new software for probe calibration to measure clearances using LabView
+- Preparing performance tests within the gas turbine test bench and addressing manufacturing issues
+- Configuring systems for data collection related to clearances and Tip-Timing
+- Coordinating with suppliers for instrumentation hardware
+- Participating in turbine test bench installation, instrumentation, and performance monitoring
+- Leading a team of 10 contractors for demobilizing the turbine test bench, addressing technical challenges, and strategizing demobilization.
+
+**What I Learned:** I gained extensive experience in handling data from end to end, worked with various types of probes and data systems, improved time and project management skills, and successfully led a substantial team.
+
+Technical Skills Acquired:
+- Testing
+- Gas Turbines
+- Performance Evaluation
+- Software Development
+- Project Management
+
+## 3rd Rotation – GE Power Services, BoP Nuclear Team
+
+![Moisture Separator Reheater](images/MSR.png)
+
+**Where I Was:** In the third rotation, I joined the *Balance of Plant nuclear team* at La Courneuve, France, within the engineering study office of GE Power Services.
+
+**What I Did:** During this rotation, I engaged in various projects, including:
+- Leading a study to quantify the impact of Moisture Separator Reheater (MSR) degradation on French nuclear power plant performance using thermal cycle modeling software
+- Supporting the RCV1300 Heat Exchangers project for French Nuclear power plants by providing regulatory reports
+- Collaborating with EDF to navigate evolving nuclear safety regulations and compliance challenges.
+
+**What I Learned:** I deepened my understanding of nuclear thermal cycles, power plant efficiencies, nuclear regulations, and the necessity of robust regulatory processes. I also recognized the significance of simplifying regulations to facilitate broader industry participation.
+
+Technical Skills Acquired:
+- Thermodynamics
+- Nuclear Cycle
+- Regulations
+- Heat Exchangers
+- MSR (Moisture Separator Reheater)
+
+## 4th Rotation – GE Steam Power, System Team
+
+![Nuclear Steam Cycle](images/steam-cycle.jpg)
+
+**Where I Was:** In my fourth rotation, I worked with the *steam turbine engineering study office* in the system team at GE Steam Power.
+
+**What I Did:** I was responsible for the accessories maintenance program for the 1600MW Flamanville 3 Nuclear Power Plant. This involved detailing specifications for maintenance and collaborating closely with EDF to plan and execute maintenance activities.
+
+**What I Learned:** Managing a vast amount of information and coordinating with numerous stakeholders, including equipment suppliers, nuclear engineers, and customers, presented challenges. I gained experience in project management, steam turbine operations, Excel VBA, nuclear industry regulations, and on-site work.
+
+Technical Skills Acquired:
+- Project Management
+- Steam Turbines
+- Excel VBA
+- Nuclear Engineering
+- Regulation
+
+## Edison Engineering Development Program
+
+The **Edison Engineering Development Program** is a 2-year early career initiative offered by General Electric. The program features **4 rotational assignments** focused on engineering projects aligned with business priorities. Participants have the opportunity to combine **advanced engineering coursework** (10+ hours per week) with hands-on work experience. Training and engineering events complement the program.
+
+The rotations I completed in the program provided me with a comprehensive skill set and diverse experiences across the energy industry. These rotations included working with cutting-edge gas and steam turbines, nuclear power plants, and balancing plant systems. Through these assignments, I enhanced my technical expertise, project management skills, and ability to adapt to dynamic industry challenges.
+
+**Key Skills Acquired:**
+- Project Management
+- Engineering Principles
+- Technical Expertise
+- Adaptability
+- Collaboration
+
+For more details about my experiences, you can watch my [Edison Engineering Development Program video](https://www.youtube.com/watch?v=TgW13yA6KRg).
+```
+
+This Markdown version of the content is well-structured and organized, providing clear headings and sections to make it easier to read and understand.
