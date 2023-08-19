@@ -4,7 +4,7 @@ permalink: /resume/
 title: Yves-Marie Plard
 ---
 <div>
-  <p class="post_date">last update: August 19, 2023</p>
+  <p class="post_date">last update: <b>August 19, 2023</b></p>
 </div>
 
 <style>
