@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /resume/
-title: My Resume
+title: Yves-Marie Plard
 ---
 <style>
   .custom-button {
