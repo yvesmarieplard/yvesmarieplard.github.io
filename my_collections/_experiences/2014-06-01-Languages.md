@@ -5,7 +5,7 @@ subtitle:
 startdate: 
 enddate: 
 location:
-category: LANGUAGE & SKILLS
+category: LANGUAGES & SKILLS
 website: ""
 ---
 - **French**: Native | **English**: Fluent | **Chinese**: Intermediate

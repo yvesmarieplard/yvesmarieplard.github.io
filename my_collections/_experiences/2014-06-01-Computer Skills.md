@@ -5,7 +5,7 @@ subtitle:
 startdate: 
 enddate: 
 location:
-category: LANGUAGE & SKILLS
+category: LANGUAGES & SKILLS
 website: ""
 ---
 - **Python**: Intermediate level | **SQL**: Prior experience | **JavaScript**: Prior experience
