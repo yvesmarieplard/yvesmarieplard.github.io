@@ -18,7 +18,7 @@ I am an experienced French engineer with 6+ years in **Power, Software & Healthc
   <span style="font-size: 26px; margin: 5px;">Digitalization</span>
 </div>
 
-I am currently working at 4D as a project manager,overseeing teams of developers in the successful delivery of new software solutions. 
+I am currently working at 4D as a project manager, overseeing teams of developers in the successful delivery of new software solutions. 
 
 I have a strong interest in digitalization and in the power industry. 
 
