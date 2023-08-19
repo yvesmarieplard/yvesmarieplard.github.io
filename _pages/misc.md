@@ -1,15 +1,14 @@
 ---
 layout: default
-title: Works
-permalink: /works/
+title: misc
+permalink: /misc/
 ---
 
 <div class="posts">
-    {% for post in site.posts %}
+    {% for post in site.misc %}
       <article class="post">
         <a href="{{ site.baseurl }}{{ post.url }}">
           <h1>{{ post.title }}</h1>
-  
           <div>
             <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
           </div>
@@ -17,11 +16,9 @@ permalink: /works/
         <div class="entry">
           {{ post.excerpt }}
         </div>
-  
         <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
       </article>
     {% endfor %}
-  
     <!-- pagination -->
     {% if site.total_pages > 1 %}
     <div class="pagination">
@@ -30,7 +27,6 @@ permalink: /works/
       {% else %}
         <span>&laquo; Prev</span>
       {% endif %}
-  
       {% for page in (1..site.total_pages) %}
         {% if page == site.page %}
           <span class="webjeda">{{ page }}</span>
@@ -40,7 +36,6 @@ permalink: /works/
           <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
         {% endif %}
       {% endfor %}
-  
       {% if site.next_page %}
         <a href="{{ site.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
       {% else %}

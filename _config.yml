@@ -1,9 +1,15 @@
 #
 # This file contains configuration flags to customize your site
 #
+collections_dir: my_collections
+
+collections:
+  - experiences
+  - misc
+  - fables
 
 # Name of your site (displayed in the header)
-name: yvesmarieplard.fr
+name: Yves-Marie Plard
 
 # Name of the author
 author: Yves-Marie Plard
@@ -12,7 +18,7 @@ author: Yves-Marie Plard
 description: Experienced French engineer with 6+ years in Power, Software & Healthcare industries.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/reverie.png
+avatar: /images/profile.png
 
 #
 # Flags below are optional
@@ -34,6 +40,7 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
   playconsole:
+
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
@@ -86,7 +93,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
 
-include: ['_pages']
+include: ['_pages', '_experiences']
 
 paginate: 6
 paginate_path: /page:num/
