@@ -11,7 +11,7 @@ title: My Resume
 
 <div class="resume">
   <!-- defining categories for resume -->
-  {% assign categories = " WORK EXPERIENCE|EDUCATION|LANGUAGE & SKILLS|ACTIVITIES & INTERESTS | EXECUTIVE SUMMARY " | split: "|" %}
+  {% assign categories = " EXECUTIVE SUMMARY|WORK EXPERIENCE|EDUCATION|LANGUAGE & SKILLS|ACTIVITIES & INTERESTS " | split: "|" %}
 
   {% for category in categories %}
     <div class="archive-group">
