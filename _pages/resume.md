@@ -3,10 +3,24 @@ layout: page
 permalink: /resume/
 title: My Resume
 ---
-<div style="text-align: center; margin-top: -1.5%">
-  <button>
-    <a href="../_pages/resume/Yves-Marie_Plard_Resume_2023.pdf" download class="button"> DOWNLOAD PDF </a>
-  </button>
+<style>
+  .custom-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+  }
+
+  .custom-button:hover {
+    background-color: #0056b3;
+  }
+</style>
+
+<div style="text-align: center; margin-top: -1.5%;">
+  <a href="../_pages/resume/Yves-Marie_Plard_Resume_2023.pdf" download class="button">DOWNLOAD PDF</a>
 </div>
 
 <div class="resume">
