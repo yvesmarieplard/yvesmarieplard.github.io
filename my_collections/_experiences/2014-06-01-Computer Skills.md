@@ -8,4 +8,4 @@ location:
 category: LANGUAGE & SKILLS
 website: ""
 ---
-- Python: Intermediate level | SQL: Prior experience | JavaScript: Prior experience
+- **Python**: Intermediate level | **SQL**: Prior experience | **JavaScript**: Prior experience
