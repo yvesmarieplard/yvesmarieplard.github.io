@@ -13,7 +13,7 @@ I am an experienced French engineer with 6+ years in **Power, Software & Healthc
     margin: 5px;
     border-radius: 20px;
     font-weight: bold;
-    color: white;
+    color: gray;
   }
 </style>
 
