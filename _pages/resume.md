@@ -20,7 +20,7 @@ title: My Resume
 </style>
 
 <div style="text-align: center; margin-top: -1.5%;">
-  <a href="../_pages/resume/Yves-Marie_Plard_Resume_2023.pdf" download class="button">DOWNLOAD PDF</a>
+  <a href="../_pages/resume/Yves-Marie_Plard_Resume_2023.pdf" download class="button">Download PDF</a>
 </div>
 
 <div class="resume">
