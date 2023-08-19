@@ -6,8 +6,6 @@ permalink: /about/
 
 I am an experienced French engineer with 6+ years in **Power, Software & Healthcare industries**. I have a strong interest in **data analysis**.
 
-## Tags
-
 <div style="display: flex; flex-wrap: wrap;">
   <span style="font-size: 20px; margin: 5px;">Healthcare & Power Industry</span>
   <span style="font-size: 16px; margin: 5px;">Software Development</span>
