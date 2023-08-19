@@ -1,29 +1,16 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+I am an experienced French engineer with 6+ years in Power, Software & Healthcare industries. I have a strong interest in data analysis.
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+* Healthcare & Power Industry * Software Development * Python * Databases * Project Management * Agile Methodology * Digitalization *
 
-## Features
+I am currently working at 4D as a project manager,overseeing teams of developers in the successful delivery of new software solutions. 
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+More generally, I developed a strong interest in digitalization and in the power industry. 
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+Please don't hesitate to check my resume over [here](https://www.yvesmarieplard.fr/resume) and some of my works over [there](https://www.yvesmarieplard.fr/works).
+
