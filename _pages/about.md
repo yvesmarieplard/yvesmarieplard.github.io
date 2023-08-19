@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-permalink: /
+permalink: /about
 ---
 
 I am an experienced French engineer with 6+ years in **Power, Software & Healthcare industries**. I have a strong interest in **data analysis**.
